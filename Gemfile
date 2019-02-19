@@ -32,4 +32,4 @@ gem "sinatra-cross_origin", "~> 0.3.1"
 
 gem 'sinatra-session'
 
-gem 'lru_redux'
+gem 'lru_redux', "~> 1.1.0"
